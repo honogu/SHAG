@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SHAG/static/css/main.191f0896.css",
+    "main.js": "/SHAG/static/js/main.7cc28244.js",
+    "static/js/787.13fbaed2.chunk.js": "/SHAG/static/js/787.13fbaed2.chunk.js",
+    "static/media/logo.svg": "/SHAG/static/media/logo.c1895a68dd8191a33ec6b2024a581057.svg",
+    "static/media/Gallery_3.JPG": "/SHAG/static/media/Gallery_3.0966579e8a42e8af9b78.JPG",
+    "static/media/Gallery_1.JPG": "/SHAG/static/media/Gallery_1.3e94b266d85cc307e7ac.JPG",
+    "static/media/Gallery_2.JPG": "/SHAG/static/media/Gallery_2.7f3567386fa1e654c8ec.JPG",
+    "static/media/Contact.JPG": "/SHAG/static/media/Contact.bddbe53f7849eccccc3a.JPG",
+    "static/media/Header.jpg": "/SHAG/static/media/Header.c0fec0e504ab8eb424ed.jpg",
+    "static/media/About.jpg": "/SHAG/static/media/About.2ecd0c701bb590765dc9.jpg",
+    "static/media/Gilroy-ExtraBold.otf": "/SHAG/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/Gilroy-Light.otf": "/SHAG/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/destruction.png": "/SHAG/static/media/destruction.5917ed85350abaeb868f.png",
+    "static/media/placement.png": "/SHAG/static/media/placement.72aab93482b06d5a5778.png",
+    "static/media/transport.png": "/SHAG/static/media/transport.d09ab4a958ff5bf8f62b.png",
+    "static/media/clock.svg": "/SHAG/static/media/clock.b268b5d21f9d57ffe201f380ca1bdce4.svg",
+    "static/media/mail.svg": "/SHAG/static/media/mail.62c4547835af5ac62741101ceae5c90d.svg",
+    "static/media/phone.svg": "/SHAG/static/media/phone.e7669fd26ac93c00d4f561c0b196e30b.svg",
+    "index.html": "/SHAG/index.html",
+    "static/media/location.svg": "/SHAG/static/media/location.74cbbebd84c14464737336f23c4d96a4.svg",
+    "main.191f0896.css.map": "/SHAG/static/css/main.191f0896.css.map",
+    "main.7cc28244.js.map": "/SHAG/static/js/main.7cc28244.js.map",
+    "787.13fbaed2.chunk.js.map": "/SHAG/static/js/787.13fbaed2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191f0896.css",
+    "static/js/main.7cc28244.js"
+  ]
+}
